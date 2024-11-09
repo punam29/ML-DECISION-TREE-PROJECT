@@ -1,0 +1,15 @@
+Outlook,Temp(F),Humidity (%),Windy?,Class
+sunny,75,70,TRUE,Play
+sunny,80,90,TRUE,Don't Play
+sunny,85,85,FALSE,Don't  Play
+sunny,72,95,FALSE,Don't  Play
+sunny,69,70,FALSE,Play
+Overcast,72,90,TRUE,Play
+Overcast,83,78,FALSE,Play
+Overcast,64,65,TRUE,Play
+Overcast,81,75,FALSE,Play
+Rain,71,80,TRUE,Don't Play
+Rain,65,70,TRUE,Don't Play
+Rain,75,80,FALSE,Play
+Rain,68,80,FALSE,Play
+Rain,70,96,FALSE,Play
